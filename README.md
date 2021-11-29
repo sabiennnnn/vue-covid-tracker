@@ -1,19 +1,11 @@
 # vue-covid-tracker
+Project om Vue te leren kennen
 
-## Project setup
-```
-yarn install
-```
+## Technologieën
+- Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Screenshots project
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<img src="./src/assets/vue-covid-tracker-1.png"/>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="./src/assets/vue-covid-tracker-2.png"/>
