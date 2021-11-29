@@ -1,5 +1,6 @@
 # vue-covid-tracker
-Project om Vue te leren kennen
+Project om Vue te leren kennen.
+Gebruik gemaakt van https://covid19api.com.
 
 ## Technologieën
 - Vue.js
